@@ -2,7 +2,7 @@
 version: 1
 project:
   toc:
-    - file: README.MD
+    - file: README.md
     - file: LOSC_Event_tutorial.ipynb
   id: 9cc9c300-9e8f-4a6e-bd5b-16469f38f2b0
   binder:
